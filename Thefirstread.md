@@ -10,5 +10,13 @@
 
 3.The third one is Files with the .md or .markdown extension
 
+first read | second read
+---------- | -----------
+Read: 01   |Learning [Markdownhttps://canvas.instructure.com/courses/2480979/discussion_topics/10378569]
+---------- | -----------
+Read: 03   |Revisions and the Cloud[https://canvas.instructure.com/courses/2480979/discussion_topics/10378567]
+---------- | -----------
+
+
  
 
