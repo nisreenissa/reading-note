@@ -4,8 +4,10 @@
 
 ### You can use Markdown in 3 places around GitHub:
 
-!.The first place is Gists
+1.The first place is Gists
+
 2.The second one is Comments in Issues and Pull Requests
+
 3.The third one is Files with the .md or .markdown extension
 
  
