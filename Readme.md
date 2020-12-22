@@ -3,9 +3,9 @@ I studied Buisness information technology , work with aramex and Babil games as 
 
 Here is the reads  for 102 classes please feel free to check them closely :
 
-Reads | links
-------|------      
-Read:01|[class1](Markdownhttps://canvas.instructure.com/courses/2480979/discussion_topics/10378569)
-   
-Read:03|[class2](https://canvas.instructure.com/courses/2480979/discussion_topics/10378567)
+| Read          | Link                                                                    |
+| ----------| ----------------------------------------------------------------------------|
+| Class01 | [Growth mindset](https://nisreenissa.github.io/reading-note/)                   |
+| class02 |  |
+| class03|   
     
