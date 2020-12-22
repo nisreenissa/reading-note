@@ -6,6 +6,6 @@ Here is the reads  for 102 classes please feel free to check them closely :
 | Read          | Link                                                                    |
 | ----------| ----------------------------------------------------------------------------|
 | Class01 | [Growth mindset](https://github.com/nisreenissa/reading-note/blob/main/Read1.md)                   |
-| class02 |  |
+| class02 | [04ReadHTML](https://github.com/nisreenissa/reading-note/blob/main/HTMLRead.md) | 
 | class03|   
     
