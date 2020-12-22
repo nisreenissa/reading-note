@@ -1,12 +1,11 @@
-# **a growth mindset**
+This Is Nisreen Isaa and am going to give you a brief introduction about my self : 
+I studied Buisness information technology , work with aramex and Babil games as a VIP customer agent .
 
-### agroth mindset is like bulding your mind step by step to achive your goals and to opens more creativity and possibilites , frowing your minset will make a successful person and more confident about your self.
+Here is the reads  for 102 classes please feel free to check them closely :
 
-### You can achieve this by reminding yourself with the following everyday :
-1. try diffrent solutions 
-2. be postive and confident 
-3. reward yourselfs always after reaching your goals
-
-##### Nisreen Issa 
-##### This is the link for my page : https://github.com/nisreenissa
-Thanks for reading 
+first read | second read
+---------- | -----------
+Read: 01   |[Learning)]( Markdownhttps://canvas.instructure.com/courses/2480979/discussion_topics/10378569)
+---------- | -----------
+Read: 03   |[Revisions and the Cloud] ( https://canvas.instructure.com/courses/2480979/discussion_topics/10378567 )
+---------- | -----------
