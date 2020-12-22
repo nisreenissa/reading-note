@@ -7,5 +7,5 @@ first read | second read
 ---------- | -----------
 Read: 01   |[Learning)]( Markdownhttps://canvas.instructure.com/courses/2480979/discussion_topics/10378569)
 ---------- | -----------
-Read: 03   |[Revisions and the Cloud] ( https://canvas.instructure.com/courses/2480979/discussion_topics/10378567 )
+Read: 03   |[Revisions and the Cloud] (https://canvas.instructure.com/courses/2480979/discussion_topics/10378567)
 ---------- | -----------
